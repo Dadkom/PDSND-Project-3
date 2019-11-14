@@ -7,7 +7,7 @@
 * US Bikeshare Database System
 
 # Description:
-In this project, you will use Python program called Anaconda to explore data related to bike share systems. Then, you will write code to provide the following information for bike share use in Chicago, New York City, and Washington.
+This is a project that uses Python program to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Then, you will type code to import data and answer important questions by computing descriptive statistics. You will also write script that takes initial inputs to create an interactive device experience to provide these statistics.
 
 # Files Used:
 
