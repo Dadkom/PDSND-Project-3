@@ -1,4 +1,4 @@
-# PDSND-Project-3 - GitHub Commands 
+# PDSND-Project-3 - GitHub 
 
 # Date Created:
 * November, 14 2019
@@ -23,4 +23,4 @@ In this project, you will use Python program called Anaconda to explore data rel
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 # Credits:
-* Udacity 
+* Thank you Udacity for making the learning experience fun and educational. 
