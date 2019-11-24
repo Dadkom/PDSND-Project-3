@@ -24,7 +24,7 @@ def get_filters():
         if city.lower() in citys:
             break
         else:
-                invalid_a = "It is invalid, please enter another name"
+               # invalid_a = "It is invalid, please enter another name"
                 print(invalid_a)
                 
     # TO DO: get user input for month (all, january, february, ... , june)
@@ -35,7 +35,7 @@ def get_filters():
         if month.lower() in months:
             break
         else:
-                invalid_b = "It is invalid, please enter another month"
+              #  invalid_b = "It is invalid, please enter another month"
                 print(invalid_b)
                 
                 
@@ -47,7 +47,7 @@ def get_filters():
         if day.lower() in days:
             break
         else:
-                invalid_c = "It is invalid, please enter another day"
+              #  invalid_c = "It is invalid, please enter another day"
                 print(invalid_c)
 
                 
