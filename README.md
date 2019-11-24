@@ -1,26 +1,15 @@
-# PDSND-Project-3 - GitHub 
+### Date created
+Include the date you created this project and README file.
 
-# Date Created:
-* November, 14 2019
+### Project Title
+Replace the Project Title
 
-# Project Title:
-* US Bikeshare Database 
+### Description
+Describe what your project is about and what it does
 
-# Description:
-In this project, you will use Python program called Anaconda to explore data related to bike share systems. Then, you will write code to provide the following information for bike share use in Chicago, New York City, and Washington.
+### Files used
+Include the files used
 
-# Files Used:
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-* bikeshare.py
-* chicago.csv 
-* new_york_city.csv 
-* washington.csv
-
-# Tools Used
-
-* Python 3, NumPy, and pandas installed using Anaconda.
-* A text editor, like Sublime or Atom.
-* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
-
-# Credits:
-* Thank you Udacity for making the learning experience fun and educational. 
